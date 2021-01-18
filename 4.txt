@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 file of clone
 
+=======
+s is under clone directory clone file
+>>>>>>> 87c79f01b6f8ebdb730e787834bbb993fc0aedc4
